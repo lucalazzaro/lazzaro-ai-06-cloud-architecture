@@ -1,9 +1,9 @@
 # EnergoGrid — Hybrid Multi-Cloud AI Platform (Architecture)
 
-> Progetto sviluppato nell'ambito del Master in AI Solution Architecture
-> (ProfessionAI) — modulo Deploy AI Cloud. Caso di studio a fini didattici.
+> Project developed as part of the Master in AI Solution Architecture
+> (ProfessionAI) — Deploy AI Cloud module. Educational case study.
 
-## Descrizione
+## Description
 An architecture proposal for EnergoGrid, a fictional energy utility that must
 keep sensitive data on premise for NIS2 and GDPR compliance while using public
 cloud for scalable workloads. The platform covers real-time anomaly detection
@@ -15,17 +15,17 @@ optimisation of dispatch and storage.
 - Topics covered: hybrid multi-cloud, on-premise data residency, containers and
   Kubernetes, managed AI services, vendor lock-in trade-offs
 
-## Skill dimostrate
+## Demonstrated skills
 - Functional and non-functional requirements analysis
 - Hybrid and multi-cloud architecture design
 - Data sovereignty and regulatory compliance (NIS2, GDPR)
 - Cost, portability and lock-in trade-off analysis
 - Latency requirements for alerting (fault notification within 10 seconds)
 
-## Come eseguire
+## How to run
 No code to run. Open `EnergoGrid.docx` to read the full architecture document.
 
 ## Note
-- Caso di studio a fini didattici. I dati, le aziende e i contatti citati nel
-  documento sono interamente fittizi.
+- Educational case study. All data, companies and contacts mentioned in the
+  document are entirely fictional.
 - The document describes a proposed architecture and contains no implementation.
